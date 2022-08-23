@@ -1,0 +1,74 @@
+html{
+    color:black;
+    background-color: #55552b;
+    width: 375px;
+    height: 100vh;
+    
+}
+
+    body{
+    display:flex;
+    flex-direction: column;
+    margin: 0px 10px 0px 5px;
+    padding: 5px 10px;
+
+}
+
+
+button{
+    margin: 0px 10px 20px 20px;
+    padding: 5px 10px;
+
+}
+
+#welcome-text{
+    font-family: 'Dancing Script', cursive;
+    color: #f2f2f2;
+    font-size: 1.5em;
+}
+
+#big{
+    font-size: 2.5em;
+}
+
+
+img{
+    /* Photo by Aaron Burden on unsplash */
+    width: 100%;
+    height: 100%;
+    margin: 2.5em 0em 0em 0em;
+    padding: 0px;
+    
+}
+
+.text{
+    text-align: center; 
+}
+
+/* dark-mode palette */
+ .dark-palette{
+    background-color:black;
+    color:aliceblue;
+    /* font-family:  */
+}
+
+
+
+    /* main{
+    display: flex;
+    direction: row;
+} */
+
+
+
+
+
+
+
+.Welcome{
+    width: 100%;
+    background-size: cover;
+    height: 100%;
+
+    
+}
